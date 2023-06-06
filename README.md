@@ -4,11 +4,16 @@ A népszerű mobiltelefonos játék mintájára készült, melyben egy karaktert
 
 ## A játék menete
 A talajról kiindulva, platformokra felugrálva kell egyre feljebb jutnunk. A platformok azonnal felrepítenek a levegőbe, így a felhasználónak csak a balra-jobbra mozgatást kell irányítania, ám a különböző platformok mind más és más lehetőségeket és egyben veszélyeket tartogatnak a karakterünknek, miközben ellenségekkel és segítségekkel is találkozik a felfele úton. Csak a képernyőn éppen látható rész aktív a játék során, a már túlhaladt részekre visszamenni nem lehet, ha a Doodler leesik, akkor vége a játéknak. A játék végén egy felugró ablakba írhatjuk a nevünket, így szerepelhetünk a dicsőséglistán.
+![](pictures/gameplay.png)
 ## A karakter:
+![](pictures/doodle.png)<br>
 A játék során irányított karakterünk a Doodler. Balra-jobbra mozgathatjuk, ahogy a platformokról automatikusan elrugaszkodik.
-## Platformok: 
+## Platformok:
+![](pictures/platforms.png)<br> 
 A játékos a felfelé jutást a különböző platformok érintésével teheti meg, melyek más-más tulajdonságokkal rendelkeznek. Vannak, melyek mozognak jobbra-balra, felfelé-lefelé, vannak, melyek kettétörnek a ráugrás következtében.
-## Ellenségek: 
+## Ellenségek:
+![](pictures/blackhole.png)<br>
 A pályán megjelenhetnek úgynevezett feketelyukak, amik ha nem vigyázunk magukba szippantanak és vége a játéknak.
 ## Irányítás:
+![](pictures/control.png)<br>
 A karaktert a bal és jobb nyilak segítségével irányíthatjuk, valamint a P billentyű lenyomásával szüneteltethetjük a játékot.
